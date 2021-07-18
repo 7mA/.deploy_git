@@ -44,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/categories/index.html</loc>
+    <loc>https://7ma.github.io/tags/index.html</loc>
     
     <lastmod>2021-06-22</lastmod>
     
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/index.html</loc>
+    <loc>https://7ma.github.io/categories/index.html</loc>
     
     <lastmod>2021-06-22</lastmod>
     
@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/bfs-shortest-path-binary-matrix/</loc>
+    <loc>https://7ma.github.io/radix-sort-and-counting-sort/</loc>
     
     <lastmod>2021-06-22</lastmod>
     
   </url>
   
   <url>
-    <loc>https://7ma.github.io/radix-sort-and-counting-sort/</loc>
+    <loc>https://7ma.github.io/bfs-shortest-path-binary-matrix/</loc>
     
     <lastmod>2021-06-22</lastmod>
     
@@ -340,20 +340,6 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/%E5%8A%A8%E8%AF%8D%E6%B4%BB%E7%94%A8/</loc>
-    <lastmod>2021-07-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7ma.github.io/tags/%E6%95%AC%E8%AF%AD/</loc>
-    <lastmod>2021-07-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://7ma.github.io/tags/%E5%85%83%E9%9F%B3%E8%B0%83%E5%92%8C/</loc>
     <lastmod>2021-07-18</lastmod>
     <changefreq>daily</changefreq>
@@ -368,6 +354,20 @@
   </url>
   
   <url>
+    <loc>https://7ma.github.io/tags/%E5%8A%A8%E8%AF%8D%E6%B4%BB%E7%94%A8/</loc>
+    <lastmod>2021-07-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7ma.github.io/tags/%E6%95%AC%E8%AF%AD/</loc>
+    <lastmod>2021-07-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://7ma.github.io/tags/%E8%AF%8D%E7%BC%80/</loc>
     <lastmod>2021-07-18</lastmod>
     <changefreq>daily</changefreq>
@@ -375,14 +375,14 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/</loc>
+    <loc>https://7ma.github.io/tags/%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2021-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/%E6%8E%92%E5%BA%8F/</loc>
+    <loc>https://7ma.github.io/tags/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2021-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
