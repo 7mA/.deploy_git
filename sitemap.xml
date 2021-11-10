@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://7ma.github.io/korean-haela/</loc>
+    <loc>https://7ma.github.io/korean-dallago-hada/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://7ma.github.io/korean-dallago-hada/</loc>
+    <loc>https://7ma.github.io/korean-haela/</loc>
     
     <lastmod>2021-11-10</lastmod>
     
@@ -263,14 +263,14 @@
 
   
   <url>
-    <loc>https://7ma.github.io/tags/LeetCode/</loc>
+    <loc>https://7ma.github.io/tags/LaTeX/</loc>
     <lastmod>2021-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://7ma.github.io/tags/%E8%AE%BA%E6%96%87/</loc>
     <lastmod>2021-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -284,14 +284,14 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/LaTeX/</loc>
+    <loc>https://7ma.github.io/tags/LeetCode/</loc>
     <lastmod>2021-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/%E8%AE%BA%E6%96%87/</loc>
+    <loc>https://7ma.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -368,20 +368,6 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/%E5%8A%A8%E8%AF%8D%E6%B4%BB%E7%94%A8/</loc>
-    <lastmod>2021-11-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7ma.github.io/tags/%E6%95%AC%E8%AF%AD/</loc>
-    <lastmod>2021-11-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://7ma.github.io/tags/%E5%85%83%E9%9F%B3%E8%B0%83%E5%92%8C/</loc>
     <lastmod>2021-11-10</lastmod>
     <changefreq>daily</changefreq>
@@ -390,6 +376,20 @@
   
   <url>
     <loc>https://7ma.github.io/tags/%E8%BF%81%E7%A7%BB/</loc>
+    <lastmod>2021-11-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7ma.github.io/tags/%E5%8A%A8%E8%AF%8D%E6%B4%BB%E7%94%A8/</loc>
+    <lastmod>2021-11-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7ma.github.io/tags/%E6%95%AC%E8%AF%AD/</loc>
     <lastmod>2021-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
