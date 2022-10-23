@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://7ma.github.io/korean-japanese-pidgin-chikta/</loc>
-    
-    <lastmod>2022-10-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://7ma.github.io/plum-yulyeong-daehaengjin/</loc>
     
     <lastmod>2022-10-13</lastmod>
@@ -368,6 +361,27 @@
   </url>
   
   <url>
+    <loc>https://7ma.github.io/tags/LaTeX/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7ma.github.io/tags/%E8%AE%BA%E6%96%87/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7ma.github.io/tags/Legacy/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://7ma.github.io/tags/LeetCode/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
@@ -382,13 +396,6 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/Legacy/</loc>
-    <lastmod>2022-10-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://7ma.github.io/tags/Hexo/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
@@ -397,20 +404,6 @@
   
   <url>
     <loc>https://7ma.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-10-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7ma.github.io/tags/LaTeX/</loc>
-    <lastmod>2022-10-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7ma.github.io/tags/%E8%AE%BA%E6%96%87/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -459,6 +452,13 @@
   </url>
   
   <url>
+    <loc>https://7ma.github.io/tags/shorts/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://7ma.github.io/tags/%E4%B8%9C%E6%96%B9Project/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
@@ -481,13 +481,6 @@
   
   <url>
     <loc>https://7ma.github.io/tags/%E6%97%A5%E8%AF%AD/</loc>
-    <lastmod>2022-10-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7ma.github.io/tags/shorts/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -599,13 +592,6 @@
   </url>
   
   <url>
-    <loc>https://7ma.github.io/tags/TOPIK/</loc>
-    <lastmod>2022-10-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://7ma.github.io/tags/%E8%AF%AD%E5%9F%BA/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
@@ -614,6 +600,13 @@
   
   <url>
     <loc>https://7ma.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7ma.github.io/tags/TOPIK/</loc>
     <lastmod>2022-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
